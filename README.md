@@ -15,8 +15,8 @@
 - **CSS**
 - **JavaScript**
 
-🤖 Además, me apasiona la electrónica y los proyectos de hardware.  
-Estoy orgulloso de haber creado un **Robot Bailarín** y un **Auto a control remoto con Arduino**.
+🤖 Tambien realicé varios proyectos de hardware.  
+Estoy orgulloso de haber creado un **Robot Bailarín** y un **Auto a control remoto** (Ambos proyectos desarrollados con Arduino y en grupo).
 
 ## 📫 ¿Querés conocerme un poco más?
 
