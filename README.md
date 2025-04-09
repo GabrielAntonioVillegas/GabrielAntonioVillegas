@@ -7,13 +7,7 @@
 ## 🚀 Sobre mí
 
 🛠️ Lenguajes que conozco:
-- **Python**
-- **Java**
-- **C++**
-- **SQL**
-- **HTML**
-- **CSS**
-- **JavaScript**
+ **Python** | **Java** | **C++** | **SQL** | **HTML** | **CSS** | **JavaScript**
 
 🤖 Tambien realicé varios proyectos de hardware.  
 Estoy orgulloso de haber creado un **Robot Bailarín** y un **Auto a control remoto** (Ambos proyectos desarrollados con Arduino y en grupo).
